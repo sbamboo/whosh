@@ -1,0 +1,10 @@
+{
+    "package": {
+        "desc": "Main crosshell package"
+    },
+    "cmdlets": {
+        "whosh": {
+            "aliases": ["wh"]
+        }
+    }
+}
